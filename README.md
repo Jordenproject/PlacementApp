@@ -26,5 +26,5 @@
 
 1. Clone this repository  
 2. Restore dependencies: `dotnet restore`  
-3. Run the project: `dotnet run`  
+3. Run the project: `dotnet run --urls http://localhost:5000`  
 4. Open a browser and navigate to `http://localhost:5000/PlacementApplications`
